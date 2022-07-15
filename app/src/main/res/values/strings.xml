@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="add_story">Add Story</string>
+    <string name="story_map">Story Map</string>
+    <string name="logout">Logout</string>
+    <string name="image_description">Image Description</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome">Welcome!</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="story_description">Description</string>
+    <string name="take_failed">Failed to take photo</string>
+    <string name="display_failed">Failed to display camera</string>
+    <string name="permission">Have no permission</string>
+    <string name="choose_image">Choose an image</string>
+    <string name="put_image">Please put an image and description</string>
+    <string name="failed_upload">Failed to upload</string>
+    <string name="failed_title">FAILED</string>
+    <string name="invalid_input">Invalid input!</string>
+    <string name="wrong_input">Email or Password is wrong!</string>
+    <string name="empty_email">Email field can not be empty</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="email_taken">Email is already taken</string>
+    <string name="empty_pass">Password field can not be empty</string>
+    <string name="pass_rule">At least 6 characters</string>
+    <string name="empty_name">Name field can not be empty</string>
+    <string name="name_rule">Name only accept alphabet and space</string>
+    <string name="language">Language</string>
+    <string name="data_is_not_found">Data is not found!</string>
+    <string name="normal_type">Normal Type</string>
+    <string name="satellite_type">Satellite Type</string>
+    <string name="terrain_type">Terrain Type</string>
+    <string name="hybrid_type">Hybrid Type</string>
+    <string name="retry">Retry</string>
+    <string name="load_map">Failed to load stories map</string>
+</resources>
